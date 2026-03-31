@@ -1,0 +1,4 @@
+name = "tg2rss"
+main = "src/app-workers.ts"
+compatibility_date = "2023-12-28"
+
